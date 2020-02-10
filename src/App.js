@@ -32,7 +32,6 @@ function App() {
           </Title>
           <ButtonChange onClick={toggleTheme}>Mudar tema</ButtonChange>
         </Container>
-        <footer></footer>
       </Fragment>
     </ThemeProvider>
   );
