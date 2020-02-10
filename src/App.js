@@ -51,8 +51,9 @@ const Title = styled.h1`
 
 const ButtonChange = styled.button`
   width: 100px;
-  height: 50px;
+  height: 40px;
   margin-right: 20px;
+  border-radius: 10px;
 `;
 
 export default App;
